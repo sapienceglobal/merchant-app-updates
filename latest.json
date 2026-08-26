@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2+2004",
-  "notes": "Added new screens",
-  "apkUrl": "https://github.com/sapienceglobal/merchant-app-updates/releases/download/1.0.2%2B2004/lassi-lounge-merchant.apk"
+  "version": "1.0.3+2005",
+  "notes": "Introduced a premium UI overhaul with a dynamic animated Splash Screen, a luxurious full-screen Dashboard background, custom overscroll branding animations, and improved Quick Actions routing.",
+  "apkUrl": "https://github.com/sapienceglobal/merchant-app-updates/releases/download/1.0.3%2B2005/lassi-lounge-merchant.apk"
 }
