@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3+2005",
-  "notes": "Introduced a premium UI overhaul with a dynamic animated Splash Screen, a luxurious full-screen Dashboard background, custom overscroll branding animations, and improved Quick Actions routing.",
-  "apkUrl": "https://github.com/sapienceglobal/merchant-app-updates/releases/download/1.0.3%2B2005/lassi-lounge-merchant.apk"
+  "version": "1.0.4+2006",
+  "notes": "Introduced a premium UI overhaul with a dynamic animated Splash Screen, a luxurious full-screen Dashboard background, custom overscroll branding animations, and improved Quick Actions routing. Additionally, completely redesigned the Login and Forgot Password screens with centered, industry-level aesthetics and brand icons. Added premium confirmation dialogs for order actions (Cancel, Refund, Remake) and introduced a 'Track Live Order' button directly on Live Order cards. Also resolved Android 12+ adaptive splash icon cutoff issues and fixed Dashboard layout overflow bugs for better responsiveness.",
+  "apkUrl": "https://github.com/sapienceglobal/merchant-app-updates/releases/download/1.0.4%2B2006/lassi-lounge-admin.apk"
 }
