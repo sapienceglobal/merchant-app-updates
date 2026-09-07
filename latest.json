@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0+2015",
-  "notes": "Fix Some Minor UI",
-  "apkUrl": "https://github.com/sapienceglobal/merchant-app-updates/releases/download/1.1.0%2B2015/admin-lassi-lounge.apk"
+  "version": "1.1.1+2017",
+  "notes": "Fix Some Minor UI, added continuous incoming call ringtone for new orders & fixed notification icon.",
+  "apkUrl": "https://github.com/sapienceglobal/merchant-app-updates/releases/download/1.1.1%2B2017/admin-lassi-lounge.apk"
 }
