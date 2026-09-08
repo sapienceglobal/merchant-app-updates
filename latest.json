@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2+2018",
-  "notes": "Fix Some Minor UI, added continuous incoming call ringtone for new orders & fixed notification icon.",
-  "apkUrl": "https://github.com/sapienceglobal/merchant-app-updates/releases/download/1.1.2%2B2018/admin-lassi-lounge.apk"
+  "version": "1.1.3+2019",
+  "notes": "Fix Some Minor UI, added continuous incoming call ringtone for new orders & fixed notification icon & Improved POS feature and more",
+  "apkUrl": "https://github.com/sapienceglobal/merchant-app-updates/releases/download/1.1.3%2B2019/admin-lassi-lounge.apk"
 }
