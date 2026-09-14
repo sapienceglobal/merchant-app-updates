@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1+2025",
+  "version": "1.2.1+2026",
  "notes": "Added delivery partner vehicle details & image to Order Details. New 'Waiting for Rider/Customer' status indicators on Live Orders. Added 'Track Order'    button across Live and Order Detail screens. Minor UI tweaks and location tracking fixes.",
-  "apkUrl": "https://github.com/sapienceglobal/merchant-app-updates/releases/download/1.2.1%2B2025/admin-lassi-lounge.apk"
+  "apkUrl": "https://github.com/sapienceglobal/merchant-app-updates/releases/download/1.2.1%2B2026/admin-lassi-lounge.apk"
 }
